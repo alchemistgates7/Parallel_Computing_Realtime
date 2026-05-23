@@ -40,4 +40,4 @@
 2、建立数据库，建表
 3、在终端中写入指令
 4、测试
-5、搭建grafana看板
+5、搭建grafana看板：http://localhost:3000/alerting/list?search=
